@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "roberto",
+        "email": "roberto@mail.com",
+        "edad": "12",
+        "pass": "$2a$12$bdrySZjmCfcUNwNDoJ2CIuB.bI0MLwGHZXaaGBbIZcPoKE.2.kB2q",
+        "colors": "#800080",
+        "rol": "usuario"
+    },
+    {
+        "id": 2,
+        "name": "marcos",
+        "email": "marcos@mail.com",
+        "edad": "34",
+        "pass": "$2a$12$kSuyUpVXmVsT1yig.zYoHOoPwjTpXdCkhMKmhGDfJkMGoOskA0TXq",
+        "colors": "#800000",
+        "rol": "usuario"
+    }
+]
